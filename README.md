@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Derrick007-man
-- 👀 I’m so interested in Web development.
-- 🌱 I’m currently learning and writing more and more.
-- 💞️ I’m looking to collaborate on web development team.
-- 📫 To reach me, please use my Gmail address: derrickcha.guru@gmail.com.
+With a wealth of experience in web development, I bring a broad range of expertise and skills to the table. My main focus lies in jQuery, React.js, Vue.js, Angular.js, Node.js, Express, Django, and ASP.NET.
+
+I have a deep passion for web development and always strive to expand my knowledge and capabilities. Currently, I am actively engaged in learning and honing my skills, continuously seeking to improve and grow in this dynamic field.
 
 <!---
 Derrick007-man/Derrick007-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
